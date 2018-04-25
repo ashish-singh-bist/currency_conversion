@@ -3,6 +3,7 @@
 The app is built in Laravel 5.6
 This app is for currency conversion.
 The app uses http://data.fixer.io/api/latest for getting the current exchange rate.
+The app took 4 hours for completion.
 
 ## Getting Started
 
