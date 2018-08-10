@@ -1,4 +1,4 @@
-# Neuro-Flash Currency Conversion
+# Currency Conversion
 
 The app is built in Laravel 5.6
 This app is for currency conversion.
@@ -21,9 +21,9 @@ Here are easy steps to install this app and convert your currency.
 ### Quck Installation
 
 ```
-git clone https://github.com/ashish-singh-bist/neuro_flash.git
+git clone https://github.com/ashish-singh-bist/currency_conversion.git
 
-cd neuro_flash
+cd currency_conversion
 
 composer install
 

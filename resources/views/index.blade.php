@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('title')
-	Neuro Flash
+	Currency Conversion
 @endsection
 
 @section('stylesheet')
